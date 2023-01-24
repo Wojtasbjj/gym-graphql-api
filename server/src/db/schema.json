@@ -1,0 +1,12 @@
+{
+  "user": {
+    "id": "string",
+    "username": "string"
+  },
+  "gym":{
+    "id": "string",
+    "createdAt": "number",
+    "name": "string",
+    "type": "string"
+  }
+}
