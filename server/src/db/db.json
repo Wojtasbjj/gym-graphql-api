@@ -3,5 +3,13 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "WojtasBjj"
   },
-  "gym": []
+  "gym": [],
+  "instructor": [
+    {
+      "id": "O6M0T-eBDsIy2TYy-z5j3",
+      "createdAt": 1674573945457,
+      "first_name": "Zenek",
+      "last_name": "Martyniuk"
+    }
+  ]
 }

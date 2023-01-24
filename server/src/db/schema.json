@@ -8,5 +8,11 @@
     "createdAt": "number",
     "name": "string",
     "type": "string"
+  },
+  "instructor":{
+    "id": "string",
+    "createdAt": "number",
+    "first_name": "string",
+    "last_name": "string"
   }
 }
